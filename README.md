@@ -1,0 +1,1 @@
+Encriptador de texto simple realizado en JavaScript que utiliza algoritmos de cifrado para proteger la confidencialidad de los mensajes. Este proyecto te permite cifrar y descifrar texto, ofreciendo una herramienta útil para garantizar la privacidad en tus comunicaciones. #challengeonecodificador5
